@@ -1,0 +1,8 @@
+
+.btns {
+    position: fixed;
+    bottom: 180px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
